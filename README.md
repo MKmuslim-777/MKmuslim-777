@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @MKmuslim-777
-apt update
-apt upgrade
-pkg install python
-pip install requests
-cd Mkmuslim-777
-python menusystenAS.py
+<h1>Welcome 🤗 to mk's GitHub</h1>
